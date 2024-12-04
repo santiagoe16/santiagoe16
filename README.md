@@ -2,11 +2,7 @@
 
 ###
 
-<p align="left">I am a full-stack web developer with experience in technologies such as JavaScript, React, Flask, and Python, gained through an intensive bootcamp. During my training, I worked on projects that strengthened my technical skills and my ability to collaborate effectively in teams.  
-
-I am passionate about continuous learning, proactive in my approach, and committed to constant improvement. I enjoy building web applications, both on the frontend and backend, and I adapt quickly to new challenges, contributing meaningfully to the projects I am involved in.  
-
-Currently, I am focused on continuing to grow professionally as a developer, tackling challenges that allow me to enhance my skills and bring value to impactful projects.</p>
+<p align="left">I am a full-stack web developer with experience in technologies such as JavaScript, React, Flask, and Python, gained through an intensive bootcamp. During my training, I worked on projects that strengthened my technical skills and my ability to collaborate effectively in teams.<br><br>I am passionate about continuous learning, proactive in my approach, and committed to constant improvement. I enjoy building web applications, both on the frontend and backend, and I adapt quickly to new challenges, contributing meaningfully to the projects I am involved in.<br><br>Currently, I am focused on continuing to grow professionally as a developer, tackling challenges that allow me to enhance my skills and bring value to impactful projects.</p>
 
 ###
 
