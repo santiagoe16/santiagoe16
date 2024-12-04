@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Soy un desarrollador web junior full-stack con experiencia en tecnologías como JavaScript, React, Flask y Python, adquirida en un bootcamp intensivo. Durante mi formación, he trabajado en proyectos que fortalecieron mis habilidades técnicas y mi capacidad de colaboración en equipo.<br><br>Me caracterizo por mi pasión por el aprendizaje continuo, la proactividad y mi compromiso con la mejora constante. Disfruto construyendo aplicaciones web, tanto en el frontend como en el backend, y tengo la capacidad de adaptarme rápidamente a nuevos desafíos, contribuyendo de manera significativa a los proyectos en los que participo.<br><br>Actualmente, estoy enfocado en seguir creciendo profesionalmente como desarrollador, enfrentando retos que me permitan mejorar mis habilidades y aportar valor en proyectos que generen impacto.</p>
+<p align="left">Soy un desarrollador web full-stack con experiencia en tecnologías como JavaScript, React, Flask y Python, adquirida en un bootcamp intensivo. Durante mi formación, he trabajado en proyectos que fortalecieron mis habilidades técnicas y mi capacidad de colaboración en equipo.<br><br>Me caracterizo por mi pasión por el aprendizaje continuo, la proactividad y mi compromiso con la mejora constante. Disfruto construyendo aplicaciones web, tanto en el frontend como en el backend, y tengo la capacidad de adaptarme rápidamente a nuevos desafíos, contribuyendo de manera significativa a los proyectos en los que participo.<br><br>Actualmente, estoy enfocado en seguir creciendo profesionalmente como desarrollador, enfrentando retos que me permitan mejorar mis habilidades y aportar valor en proyectos que generen impacto.</p>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">Linkeding <a href="www.linkedin.com/in/santiago-espinal/">click here</a></p>
-<p align="left">Email: <a href="santiagoespinal333@gmail.com">santiagoespinal333@gmail.com</a></p>
+<p align="left">Linkeding <a href="https://www.linkedin.com/in/santiago-espinal/">click here</a></p>
+<p align="left">Email: <a href="mailto:santiagoespinal333@gmail.com">santiagoespinal333@gmail.com</a></p>
 
 ###
