@@ -38,7 +38,7 @@
 
 ###
 
-<p> align="left">Linkeding <a href="https://www.linkedin.com/in/santiago-espinal/">click here</a><br> align="left">Email: <a href="mailto:santiagoespinal333@gmail.com">santiagoespinal333@gmail.com</a></p>
+<p>Linkeding <a href="https://www.linkedin.com/in/santiago-espinal/">click here</a><br>Email: <a href="mailto:santiagoespinal333@gmail.com">santiagoespinal333@gmail.com</a></p>
 
 
 
