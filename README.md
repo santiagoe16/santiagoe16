@@ -1,8 +1,12 @@
-<h1 align="left">👋 ¡Hola! Soy Santiago Espinal</h1>
+<h1 align="left">👋 ¡Hi! Soy Santiago Espinal</h1>
 
 ###
 
-<p align="left">Soy un desarrollador web full-stack con experiencia en tecnologías como JavaScript, React, Flask y Python, adquirida en un bootcamp intensivo. Durante mi formación, he trabajado en proyectos que fortalecieron mis habilidades técnicas y mi capacidad de colaboración en equipo.<br><br>Me caracterizo por mi pasión por el aprendizaje continuo, la proactividad y mi compromiso con la mejora constante. Disfruto construyendo aplicaciones web, tanto en el frontend como en el backend, y tengo la capacidad de adaptarme rápidamente a nuevos desafíos, contribuyendo de manera significativa a los proyectos en los que participo.<br><br>Actualmente, estoy enfocado en seguir creciendo profesionalmente como desarrollador, enfrentando retos que me permitan mejorar mis habilidades y aportar valor en proyectos que generen impacto.</p>
+<p align="left">I am a full-stack web developer with experience in technologies such as JavaScript, React, Flask, and Python, gained through an intensive bootcamp. During my training, I worked on projects that strengthened my technical skills and my ability to collaborate effectively in teams.  
+
+I am passionate about continuous learning, proactive in my approach, and committed to constant improvement. I enjoy building web applications, both on the frontend and backend, and I adapt quickly to new challenges, contributing meaningfully to the projects I am involved in.  
+
+Currently, I am focused on continuing to grow professionally as a developer, tackling challenges that allow me to enhance my skills and bring value to impactful projects.</p>
 
 ###
 
